@@ -1,0 +1,15 @@
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\bin\Debug\net6.0\CSharpChallenge.exe
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\bin\Debug\net6.0\CSharpChallenge.deps.json
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\bin\Debug\net6.0\CSharpChallenge.runtimeconfig.json
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\bin\Debug\net6.0\CSharpChallenge.dll
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\bin\Debug\net6.0\CSharpChallenge.pdb
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\obj\Debug\net6.0\CSharpChallenge.csproj.AssemblyReference.cache
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\obj\Debug\net6.0\CSharpChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\obj\Debug\net6.0\CSharpChallenge.AssemblyInfoInputs.cache
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\obj\Debug\net6.0\CSharpChallenge.AssemblyInfo.cs
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\obj\Debug\net6.0\CSharpChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\obj\Debug\net6.0\CSharpChallenge.dll
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\obj\Debug\net6.0\refint\CSharpChallenge.dll
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\obj\Debug\net6.0\CSharpChallenge.pdb
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\obj\Debug\net6.0\CSharpChallenge.genruntimeconfig.cache
+C:\Users\Alice\Desktop\GDSC\CSharpChallenge\CSharpChallenge\obj\Debug\net6.0\ref\CSharpChallenge.dll
